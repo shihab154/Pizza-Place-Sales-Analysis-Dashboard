@@ -39,4 +39,9 @@ Microsoft Excel: PivotTables, charts, conditional formatting.
 Data Cleaning: Removed duplicates, standardized categories.
 
 Formulas: SUMIFS, AVERAGE, and custom calculations for KPIs.
+
+
+Dataet---https://www.kaggle.com/datasets/ankit...
+Background & Images link :- https://drive.google.com/drive/folder...
+
    -   
